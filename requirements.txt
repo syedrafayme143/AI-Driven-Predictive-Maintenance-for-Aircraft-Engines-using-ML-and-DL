@@ -7,3 +7,4 @@ tensorflow
 xgboost
 lightgbm
 kagglehub
+scipy==1.11.1
