@@ -13,19 +13,21 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Results](#key-results)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Models Implemented](#models-implemented)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results & Analysis](#results--analysis)
-- [Technical Highlights](#technical-highlights)
-- [Business Impact](#business-impact)
-- [Future Improvements](#future-improvements)
-- [References](#references)
-- [License](#license)
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Key Results](#-key-results)
+- [Dataset](#-dataset)
+- [Project Structure](#-project-structure)
+- [Models Implemented](#-models-implemented)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results & Analysis](#-results--analysis)
+- [Technical Highlights](#-technical-highlights)
+- [Business Impact](#-business-impact)
+- [Future Improvements](#-future-improvements)
+- [References](#-references)
+- [License](#-license)
 
 ---
 
@@ -214,8 +216,8 @@ Architecture:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/turbofan-predictive-maintenance.git
-cd turbofan-predictive-maintenance
+git clone https://github.com/syedrafayme143/AI-Driven-Predictive-Maintenance-for-Aircraft-Engines-using-ML-and-DL.git
+cd AI-Driven-Predictive-Maintenance-for-Aircraft-Engines-using-ML-and-DL
 ```
 
 ### Step 2: Create Virtual Environment
@@ -482,11 +484,11 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Syed Rafay Ali** - [syedrafayme143@gmail.com](mailto:syedrafayme143@gmail.com)
 
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**LinkedIn**: [https://www.linkedin.com/in/syed-rafay-ali-9bb24817a/](https://www.linkedin.com/in/syed-rafay-ali-9bb24817a/)
 
-**Project Link**: [github.com/yourusername/turbofan-predictive-maintenance](https://github.com/yourusername/turbofan-predictive-maintenance)
+**Project Link**: [https://github.com/syedrafayme143/AI-Driven-Predictive-Maintenance-for-Aircraft-Engines-using-ML-and-DL](https://github.com/syedrafayme143/AI-Driven-Predictive-Maintenance-for-Aircraft-Engines-using-ML-and-DL)
 
 ---
 
